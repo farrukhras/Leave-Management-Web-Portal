@@ -51,6 +51,5 @@ npm run dev
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 6. Navigate to the Leave Management->Overview tab to see the output after logging in.
 
-
 ## Video Demo
-[![Web Portal](https://github.com/farrukhras/Leave-Management-Web-Portal/blob/main/web_portal.png?raw=true)](https://youtu.be/7Aujvb_FwdE)
+[![Web Portal](https://github.com/farrukhras/Leave-Management-Web-Portal/blob/main/web_portal.png?raw=true)](https://youtu.be/PNh20fC_Rro)
