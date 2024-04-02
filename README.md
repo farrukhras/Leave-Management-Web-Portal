@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## [Live Demo](https://leave-management-web-portal.vercel.app/)
 
+Please use this email and password to log in:
+* **email:** sam@IMS.com 
+* **password:** bilal786
+
 ## Summary of technologies/frameworks/libraries
 In this project, I have used Next.js to create a component, Leave Management for an Employee Web Portal. I have styled the application with Tailwind CSS and some custom, in-line CSS/styling. In addition, I have used `chart.js` and `react-chartjs-2` libraries to develop and render a Bar chart for leaves. I have also used `react-icons` for icons and the `react-toastify` library to display toast notifications. 
 
@@ -34,10 +38,4 @@ npm install
 npm run dev
 ```
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
-6. After logging-in, navigate to the Leave Management->Overview tab to see the output.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+6. Navigate to the Leave Management->Overview tab to see the output after logging in.
