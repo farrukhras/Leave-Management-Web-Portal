@@ -6,6 +6,17 @@ Please use this email and password to log in:
 * **email:** sam@IMS.com 
 * **password:** bilal786
 
+## Summary
+A small, user-friendly web portal design that fetches user leaves data and displays stats on the dashboard using the API. It has the following:
+1. Login Page: We consume the following API—[https://ims-devsandbox.codeivy.io/api/login](https://ims-devsandbox.codeivy.io/api/login).
+2. Sidebar
+3. Header
+4. Dashboard
+  * For the leave trend chart, we make a bar graph and consume the following API—[https://ims-devsandbox.codeivy.io/api/invoice-analysis](https://ims-devsandbox.codeivy.io/api/invoice-analysis).
+  * For the pending approvals table and upcoming leaves table, we consume the following API—[https://ims-devsandbox.codeivy.io/api/getLeaves](https://ims-devsandbox.codeivy.io/api/getLeaves).
+
+
+
 ## Summary of technologies/frameworks/libraries
 In this project, I have used Next.js to create a component, Leave Management for an Employee Web Portal. I have styled the application with Tailwind CSS and some custom, in-line CSS/styling. In addition, I have used `chart.js` and `react-chartjs-2` libraries to develop and render a Bar chart for leaves. I have also used `react-icons` for icons and the `react-toastify` library to display toast notifications. 
 
