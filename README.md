@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## [Live Demo](https://leave-management-web-portal.vercel.app/)
 
-[![CMS Demo Video](https://img.youtube.com/vi/0knnG-c-S20/0.jpg)](https://youtu.be/7Aujvb_FwdE)
-
 Please use this email and password to log in:
 * **email:** sam@IMS.com 
 * **password:** bilal786
@@ -52,3 +50,7 @@ npm run dev
 ```
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 6. Navigate to the Leave Management->Overview tab to see the output after logging in.
+
+
+## Video Demo
+[![Web Portal](https://github.com/farrukhras/Leave-Management-Web-Portal/blob/main/web_portal.png?raw=true)](https://youtu.be/7Aujvb_FwdE)
