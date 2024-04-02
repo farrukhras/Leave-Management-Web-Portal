@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## [Live Demo](https://leave-management-web-portal.vercel.app/)
 
+[![CMS Demo Video](https://img.youtube.com/vi/0knnG-c-S20/0.jpg)](https://youtu.be/7Aujvb_FwdE)
+
 Please use this email and password to log in:
 * **email:** sam@IMS.com 
 * **password:** bilal786
