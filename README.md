@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## [Live Demo](https://leave-management-web-portal.vercel.app/)
+
 ## Summary of technologies/frameworks/libraries
 In this project, I have used Next.js to create a component, Leave Management for an Employee Web Portal. I have styled the application with Tailwind CSS and some custom, in-line CSS/styling. In addition, I have used `chart.js` and `react-chartjs-2` libraries to develop and render a Bar chart for leaves. I have also used `react-icons` for icons and the `react-toastify` library to display toast notifications. 
 
